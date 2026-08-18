@@ -100,10 +100,10 @@ zerobrew 处于实验阶段。我们建议将其与 Homebrew 并行运行，而�
 ## 项目状态 (Project status)
 
 <div align="center">
-  <a href="https://star-history.com/#lucasgelfond/zerobrew&Date">
+  <a href="https://star-history.dera.page/#lucasgelfond/zerobrew&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lucasgelfond/zerobrew&type=Date&theme=dark" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lucasgelfond/zerobrew&type=Date" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=lucasgelfond/zerobrew&type=Date&theme=dark" />
+      <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=lucasgelfond/zerobrew&type=Date" />
     </picture>
   </a>
 </div>
