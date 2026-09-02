@@ -20,6 +20,11 @@
 
 </div>
 
+> [!WARNING] 
+> zerobrew is currently **unmaintained**.
+> Please contact lucas.gelfond@gmail.com or akrm@cachebag.sh for CVE's or other critical security issues
+
+
 ## Install
 
 ```bash
